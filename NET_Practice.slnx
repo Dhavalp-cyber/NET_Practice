@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Area of a Circle/Area of a Circle.csproj" Id="127d669c-75a9-4681-be56-b35d3b3b9745" />
+  <Project Path="MethodParameter/MethodParameter.csproj" Id="1520ea82-0cd9-4829-b3bc-92cf602d805e" />
+  <Project Path="NamedArgument/NamedArgument.csproj" Id="65a4f50f-9460-42ee-b3f6-bcbbeac588fa" />
+  <Project Path="OptionalParameters/OptionalParameters.csproj" Id="23b785ef-f346-42b2-b10c-db5c697833aa" />
+  <Project Path="Params/Params.csproj" Id="691b3e44-15d7-4270-9141-833677770db7" />
+  <Project Path="ReturnValues/ReturnValues.csproj" Id="00907652-274e-4cd7-bb2f-185cdd035795" />
+  <Project Path="StringLength/StringLength.csproj" Id="9f84247d-4309-447d-8438-eec7bc27ac48" />
+  <Project Path="Sum Of Array/Sum Of Array.csproj" Id="806fd5f2-ec9f-4325-8cef-6863c6b66287" />
+  <Project Path="Temperature Conversion/Temperature Conversion.csproj" Id="da4afb79-7c9e-4b3e-a07b-34004ec5b01a" />
+  <Project Path="UsingReturnValues/MethodOverloading.csproj" Id="bba72093-58f3-421f-8e83-92ae6301b0b2" />
+  <Project Path="VoidMethods/VoidMethods.csproj" />
+</Solution>
